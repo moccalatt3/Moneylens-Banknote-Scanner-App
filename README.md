@@ -38,28 +38,21 @@
 ### 🏠 Halaman Home
 Tampilan awal aplikasi
 
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](assets/screenshots/home.jpg)
 
 ---
 
 ### 🔍 Halaman Scan
 Upload gambar uang untuk diidentifikasi
 
-![Scan Screen](assets/screenshots/scan.png)
-
----
-
-### ✅ Hasil Identifikasi
-Menampilkan hasil pendeteksian uang kertas
-
-![Result Screen](assets/screenshots/result.png)
+![Scan Screen](assets/screenshots/scan.jpg)
 
 ---
 
 ### 🕘 Halaman History *(Coming Soon)*
 Fitur ini belum aktif sepenuhnya
 
-![History Screen](assets/screenshots/history.png)
+![History Screen](assets/screenshots/history.jpg)
 
 ---
 
