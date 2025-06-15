@@ -2,7 +2,6 @@
 
 **MoneyLens** adalah aplikasi mobile berbasis Flutter yang memanfaatkan teknologi pemindaian kamera dan backend Flask untuk **mendeteksi dan mengidentifikasi uang kertas** dari berbagai negara. Aplikasi ini ditujukan untuk membantu wisatawan asing dalam mengenali jenis mata uang dan nominal saat berada di Indonesia.
 
----
 
 ## ✨ Fitur Utama
 
@@ -12,7 +11,6 @@
 - 📱 Tampilan UI sederhana dan mudah digunakan
 - 💱 Mendukung IDR, USD, MYR, SGD, AUD, CNY
 
----
 
 ## 🛠️ Cara Kerja Aplikasi
 
@@ -22,7 +20,6 @@
 3. Tekan tombol **Identifikasi**
 4. Aplikasi akan memproses gambar dan menampilkan hasil deteksi negara dan nominal
 
----
 
 ## ⚠️ Catatan Pengembangan
 
@@ -31,30 +28,26 @@
 - Identifikasi belum sempurna untuk semua kondisi cahaya dan bentuk uang
 - Fitur pengambilan gambar langsung & auto-crop akan dikembangkan ke depannya
 
----
 
 ## 📸 Tampilan Aplikasi
 
 ### 🏠 Halaman Home
 Tampilan awal aplikasi
 
-![Home Screen](assets/screenshots/home.jpg)
+<img src="assets/screenshots/home.jpg" alt="Home Screen" width="200"/>
 
----
 
 ### 🔍 Halaman Scan
 Upload gambar uang untuk diidentifikasi
 
-![Scan Screen](assets/screenshots/scan.jpg)
+<img src="assets/screenshots/scan.jpg" alt="Scan Screen" width="200"/>
 
----
 
-### 🕘 Halaman History *(Coming Soon)*
+### 🕘 Halaman History
 Fitur ini belum aktif sepenuhnya
 
-![History Screen](assets/screenshots/history.jpg)
+<img src="assets/screenshots/history.jpg" alt="History Screen" width="200"/>
 
----
 
 ## 🧪 Teknologi yang Digunakan
 
@@ -64,16 +57,7 @@ Fitur ini belum aktif sepenuhnya
 - **Tesseract OCR** *(opsional)* – Ekstraksi teks dari gambar
 - **Python** – Algoritma identifikasi uang
 
----
 
 ## 👨‍💻 Kontribusi & Pengembangan
 
 > Jika kamu tertarik mengembangkan lebih lanjut (seperti menyimpan history, auto-detection dari kamera, atau mendukung lebih banyak mata uang), silakan fork repository ini atau buka isu/PR baru!
-
----
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
