@@ -1,0 +1,74 @@
+name: money_scanner
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^1.3.0    
+  image_picker: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/currencies/aud/
+    - assets/currencies/idr/
+    - assets/currencies/myr/
+    - assets/currencies/sgd/
+    - assets/currencies/usd/
+    - assets/currencies/cny/
+    - assets/images/icons/logo.png
+    - assets/images/icons/logo2.png
+    - assets/images/icons/dark.png
+    - assets/images/icons/history.png
+    - assets/images/icons/history2.png
+    - assets/images/icons/scan.png
+    - assets/images/icons/scan2.png
+    - assets/images/icons/scan3.png
+    - assets/images/icons/arrow.png
+    - assets/images/icons/profil.png
+    - assets/images/icons/image.png
+    - assets/images/icons/category.png
+    - assets/images/icons/more.png
+    - assets/images/icons/phone.png
+    - assets/images/icons/home.png
+    - assets/images/icons/home2.png
+    - assets/images/icons/currency.png
+    - assets/images/icons/notification.png
+    - assets/images/icons/validate.png
+    - assets/images/icons/money.png
+    - assets/images/icons/scanning.png
+    - assets/images/icons/identifikasi.png
+    - assets/images/icons/lang.png
+    - assets/images/screens/warga.jpeg
+    - assets/images/screens/background.png
+    - assets/images/screens/rupiah.jpg
+    - assets/images/screens/rupiah2.jpg
+    - assets/images/screens/rupiah3.jpg
+    - assets/images/screens/rupiah4.jpg
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Medium.ttf
+        - asset: assets/fonts/Poppins-ExtraLight.ttf
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+        - asset: assets/fonts/Poppins-Black.ttf
+        - asset: assets/fonts/Poppins-SemiBold.ttf
