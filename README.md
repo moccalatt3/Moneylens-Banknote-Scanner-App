@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # money_scanner
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Moneylens-Banknote-Scanner-App
+MoneyLens adalah aplikasi mobile yang membantu wisatawan mengenali dan mengidentifikasi uang kertas dari berbagai negara melalui teknologi pemindaian kamera.
+>>>>>>> c5a033a7596bf7360aeb1a3f3e9a5d4e7c9c4779
