@@ -5,11 +5,11 @@
 
 ## Fitur Utama
 
-- 📸 Deteksi uang kertas melalui gambar hasil kamera
-- 🌍 Identifikasi negara asal, jenis mata uang, dan nominal
-- 🤖 Backend Flask dengan image processing & template matching
-- 📱 Tampilan UI sederhana dan mudah digunakan
-- 💱 Mendukung IDR, USD, MYR, SGD, AUD, CNY
+- Deteksi uang kertas melalui gambar hasil kamera
+- Identifikasi negara asal, jenis mata uang, dan nominal
+- Backend Flask dengan image processing & template matching
+- Tampilan UI sederhana dan mudah digunakan
+- Mendukung IDR, USD, MYR, SGD, AUD, CNY
 
 
 ## Cara Kerja Aplikasi
